@@ -1,0 +1,17 @@
+﻿  CarParkmanager.cpp
+D:\Visual-Projects-Projects\Car-parking-manager\Car parking manager\CarParkmanager.cpp(77,9): warning C4101: 'entryTime': unreferenced local variable
+D:\Visual-Projects-Projects\Car-parking-manager\Car parking manager\CarParkmanager.cpp(197,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual-Projects-Projects\Car-parking-manager\Car parking manager\CarParkmanager.cpp(249,22): warning C4018: '<': signed/unsigned mismatch
+D:\Visual-Projects-Projects\Car-parking-manager\Car parking manager\CarParkmanager.cpp(391,20): warning C4018: '<': signed/unsigned mismatch
+D:\Visual-Projects-Projects\Car-parking-manager\Car parking manager\CarParkmanager.cpp(431,21): warning C4018: '<': signed/unsigned mismatch
+D:\Visual-Projects-Projects\Car-parking-manager\Car parking manager\CarParkmanager.cpp(418,31): warning C4101: 'priceintotal': unreferenced local variable
+D:\Visual-Projects-Projects\Car-parking-manager\Car parking manager\CarParkmanager.cpp(420,6): warning C4101: 'check': unreferenced local variable
+  Car.cpp
+  dateTime.cpp
+  main.cpp
+  Motorbike.cpp
+  Van.cpp
+D:\Visual-Projects-Projects\Car-parking-manager\Car parking manager\Van.cpp(4,159): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Vehicle.cpp
+  Generating Code...
+  Car parking manager.vcxproj -> D:\Visual-Projects-Projects\Car-parking-manager\Debug\Car parking manager.exe
